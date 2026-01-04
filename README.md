@@ -33,8 +33,8 @@
   
   ## My projects:
 ### :heavy_check_mark: Automated Testing of Online Store Lamoda
-[![Readme Card](https://github.com/RDRv4/lamoda-autotest)
+[Readme Card](https://github.com/RDRv4/lamoda-autotest)
 
 ### :heavy_check_mark: Automated Testing of Online Store Demo Web Shop
-[![Readme Card](https://github.com/RDRv4/api-autotest-webshop)
+[Readme Card](https://github.com/RDRv4/api-autotest-webshop)
 
