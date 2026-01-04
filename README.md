@@ -38,7 +38,3 @@
 ### :heavy_check_mark: Automated Testing of Online Store Demo Web Shop
 [![Readme Card](https://github.com/RDRv4/api-autotest-webshop)
 
-### My stats:
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaurB&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaurB&theme=solarized_dark)
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaurB&theme=solarized_dark)
