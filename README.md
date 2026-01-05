@@ -32,9 +32,9 @@
 </p>
   
   ## My projects:
-### :heavy_check_mark: Automated Testing of Online Store Lamoda
+### :heavy_check_mark: UI Automated Testing for Online Store Lamoda
 [Readme Card](https://github.com/RDRv4/lamoda-autotest)
 
-### :heavy_check_mark: Automated Testing of Online Store Demo Web Shop
+### :heavy_check_mark: API Automated Testing for Online Store Web Shop
 [Readme Card](https://github.com/RDRv4/api-autotest-webshop)
 
